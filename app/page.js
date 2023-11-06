@@ -8,6 +8,7 @@ export default function Home() {
       
       <Link href={'/users'}>clik</Link>
       <Us/>
+     
     </main>
   )
 }
